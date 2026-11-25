@@ -1,7 +1,8 @@
-# [Project Title]
 
-> Group Research Project – [Course Name / Code], [Institution], Fall 2026
-> Instructor: [Name] | Final submission due: **13 December 2026**
+Human-AI Collaboration In Higher Education: A Study Of Generative AI Usage and Learning Outcomes Among University Students
+
+> Group Research Project – [Research and Technical Analysis], [Addis Ababa University],
+> Final submission due: **13 December 2026**
 
 ## 1. Project Overview
 Brief (3–5 sentences) description of the research problem, objectives, and methodology.
