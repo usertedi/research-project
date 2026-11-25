@@ -5,11 +5,7 @@ Human-AI Collaboration In Higher Education: A Study Of Generative AI Usage and L
 > Final submission due: **13 December 2026**
 
 ## 1. Project Overview
-Brief (3–5 sentences) description of the research problem, objectives, and methodology.
-
-**Research questions**
-1. RQ1: ...
-2. RQ2: ...
+Our study investigates how undergraduate students at Addis Ababa University integrate Generative AI tools (such as ChatGPT, Gemini, Claude, Copilot, and DeepSeek) into their academic routines and how those usage habits influence learning outcomes and academic integrity. While existing literature often treats AI adoption as uniform, prior findings suggest a critical tension: generative tools can reduce cognitive load and boost short-term performance, yet unguided reliance may weaken independent reasoning, conceptual understanding, and critical thinking. To address this gap, the research distinguishes between using Generative AI to augment learning versus using it to automate coursework. Adopting a mixed-methods design, the study combines an online Likert-scale and closed-ended survey of 50–100+ undergraduate students with semi-structured interviews of 5–8 volunteers, analyzed through descriptive statistics and thematic analysis. The resulting insights aim to guide higher education institutions in developing clearer AI-use policies and designing more authentic assessments.
 
 **Methodology:** [Quantitative survey / qualitative interviews / mixed methods / document analysis]
 
@@ -35,8 +31,7 @@ Brief (3–5 sentences) description of the research problem, objectives, and met
 ```
 
 ## 4. Software and Datasets
-- **Software:** [e.g., Python 3.x (pandas, scipy), R, SPSS, Excel, NVivo] – list versions
-- **Datasets:** [Describe source, collection period, sample size, anonymization steps]
+
 
 ## 5. Reproducing the Analysis
 1. Clone the repository: `git clone <repo-url>`
